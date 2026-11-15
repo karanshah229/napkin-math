@@ -1,0 +1,7 @@
+{
+  "name": "napkin-math",
+  "version": "0.1.0",
+  "description": "Back-of-the-envelope latency, throughput, capacity and cloud-cost estimates from measured reference numbers, with a unit-aware calculator and a capacity-estimator subagent.",
+  "license": "MIT",
+  "keywords": ["performance", "capacity-planning", "system-design", "cost", "estimation"]
+}

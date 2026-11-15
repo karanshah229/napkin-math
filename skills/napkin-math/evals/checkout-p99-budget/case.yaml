@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: checkout-p99-budget
+expected_outcome: |
+  Shows the local Redis and Postgres calls cost a few ms at most, the transatlantic round trip is ~70-100 ms and dominates, a cold TCP+TLS connection adds round trips that blow the budget, and 150 ms is achievable only with warm, reused connections.

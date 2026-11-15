@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: logging-cost-at-scale
+expected_outcome: |
+  Estimates ~100-260 TB of logs per month, prices log management at tens to low hundreds of thousands of dollars a month, shows the S3 archive is far cheaper once compressed and batched, and names log management as the dominant cost.

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# Eval runs (outputs, grading, benchmark, viewer) are regenerated per iteration.
+workspace/
+# Packaged skills
+*.skill
+dist/
